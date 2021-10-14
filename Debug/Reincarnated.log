@@ -1,0 +1,9 @@
+﻿  Event.cpp
+C:\Users\ME\OneDrive\Documents\C++ Programs\Reincarnated\Event.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ME\OneDrive\Documents\C++ Programs\Reincarnated\Event.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ME\OneDrive\Documents\C++ Programs\Reincarnated\Event.cpp(276,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  Reincarnated.cpp
+C:\Users\ME\OneDrive\Documents\C++ Programs\Reincarnated\Reincarnated.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Reincarnated.vcxproj -> C:\Users\ME\OneDrive\Documents\C++ Programs\Reincarnated\Debug\Reincarnated.exe
